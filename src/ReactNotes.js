@@ -15,7 +15,9 @@ const ReactNotes = () => {
             <br />
             <hr />
             <h1>SPA </h1>
-            <p>SPA stands for Single Page Application.If a user clicks on any button from the navigation bar of a website and that website navigates to a different web page i. e. only update the page without reloading the browser's page, then that application is known as single page application.</p>
+            <p>SPA stands for Single Page Application.If a user clicks on any button from the navigation bar of a website and that website navigates to a different web page
+                i. e. only update the page without reloading the browser's page,
+                then that application is known as single page application.</p>
             <br />
             <hr />
             <h1>Virtual DOM</h1>
@@ -64,7 +66,7 @@ const ReactNotes = () => {
                 It requires different syntax inside a class component to implement hooks.
                 Constructor are used as it needs to store state.
             </p>
-            <br/>
+            <br />
             <p> ----------------------------------------------*************************----------------------------------------------------</p>
         </div>
     )
